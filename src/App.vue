@@ -1,5 +1,5 @@
-<template>
-    <div id="app">
+<template> 
+    <div id="app">       
       <!-- Ваше главное содержимое приложения -->
       <HeaderComp />
       <router-view></router-view>
