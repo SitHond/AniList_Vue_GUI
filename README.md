@@ -1,5 +1,7 @@
 # anilist
 
+
+
 ## Project setup
 ```
 npm install
